@@ -1,0 +1,145 @@
+{
+  "settings": {
+    "name": "T Hemasundar Reddy",
+    "title": "Electronics and Communication Engineering Student",
+    "location": "india",
+    "summary": "Highly motivated Electronics and Communication Engineering student seeking an internship to apply and expand technical skills.",
+    "profileImage": "https://image2url.com/images/1755102998120-26168b3c-45bc-40bf-a4e5-f5f22e0ae21e.jpg",
+    "primaryColor": "#F59E0B"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Contact Me",
+          "url": "mail to : hsundhar4@gmail.com",
+          "isPrimary": false,
+          "icon": "mail"
+        },
+        {
+          "text": "Download Resume",
+          "url": "https://pdflink.to/76ea554f/",
+          "isPrimary": true,
+          "icon": "download"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "title": "About Me",
+      "content": "Highly motivated Electronics and Communication Engineering student seeking an internship to apply and expand technical skills in embedded systems, signal processing, and network engineering. Eager to contribute to innovative projects and gain practical industry experience. Familiar with C, Python, Java, and with growing proficiency and a strong academic foundation. Passionate about continuous learning and staying at the forefront of technological advancements.",
+      "skills": {
+        "enabled": true,
+        "title": "Skills",
+        "items": [
+          "Analog and Digital Circuits",
+          "Communication systems",
+          "Embedded systems",
+          "Network systems",
+          "Digital Electronics",
+          "VLSI",
+          "Python",
+          "C",
+          "Java",
+          "HTML5"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Experience",
+      "items": [
+        {
+          "company": "The Website makers",
+          "position": "Intern",
+          "period": "05/2025 - 07/2025",
+          "description": "- Designed and implemented responsive user interfaces using HTML, CSS, and JavaScript.\n- Used Git and GitHub for version control and collaborative development.\n- Attended regular team meetings and sprint reviews (if part of an agile setup).\n- Documented project progress and technical decisions.\n- Participated in code reviews and followed best practices for clean, maintainable code.\n"
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Projects",
+      "items": [
+        {
+          "title": "Indoor Air Quality monitoring system",
+          "description": "This monitors the Air quality and alerts the people about the temperature, airquality, humidity with both alarm and led indication.",
+          "tags": [
+            "Tag 1",
+            "Tag 2"
+          ],
+          "previewUrl": ""
+        },
+        {
+          "title": "⚙️ How It Works",
+          "description": "- The MQ-135 sensor outputs an analog voltage based on gas concentration.\n- The DHT sensor provides temperature and humidity readings.\n- Arduino reads these values, categorizes air quality (e.g., Good, Poor, Toxic), and displays them.\n- You can set thresholds to trigger alerts via buzzer or LEDs.\n",
+          "tags": [
+            "Tag 1",
+            "Tag 2"
+          ],
+          "previewUrl": "#"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "VEMU INSTITUTE OF TECHNOLOGY",
+          "degree": "DIPLOMA IN ECE",
+          "period": "2020 - 2023"
+        },
+        {
+          "institution": "VEMU INSTITUTE OF TECHNOLOGY",
+          "degree": "B-TECH IN ECE (FINAL YEAR)",
+          "period": "2023 - 2026"
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "hsundhar4@gmail.com",
+      "phone": "+918790468026",
+      "location": "India"
+    },
+    "social": {
+      "enabled": false,
+      "items": []
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "name": "Home",
+        "url": "#hero"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 T Hemasundar Reddy. All rights reserved."
+  }
+}
